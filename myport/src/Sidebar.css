@@ -1,0 +1,85 @@
+.wrapper{
+    display: flex;
+    position: relative;
+}
+
+.wrapper .sidebar{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background: #0b39cf;
+}
+
+.wrapper .sidebar ul li{
+    margin-top: 20px;
+    padding: 15px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.icons > .MuiSvgIcon-root{
+    color: rgb(218, 214, 214)!important;
+    text-decoration: none!important;
+}
+
+.icons:hover > .MuiSvgIcon-root{
+    color: rgb(255, 255, 255)!important;
+    text-decoration: none!important;
+}
+
+.link:hover{
+    text-decoration: none!important;
+    color: rgb(255, 255, 255)!important;
+}
+
+.info_text{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.sidebar img{
+    align-items: center;
+    margin-left: 60px;
+}
+
+.sidebar h3{
+    color: white;
+}
+
+.icons{
+    color: white;
+}
+
+.sidebar ul li:hover{
+    background: #5e7dfa;
+}
+.Social_media{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+}
+
+.Social_media a{
+    display: block;
+    width: 40px;
+    color: #000000;
+    background: white;
+}
+
+.Social_media > .MuiSvgIcon-root{
+    color: white!important;
+}
+
+.Social_media a:hover > .MuiSvgIcon-root{
+    color: #fafafa!important;
+    background: #000000;
+    transition: 0.4s all;
+}
+
+.follow{
+    text-align: center;
+    margin-top: 130px;
+    color: #fafafa;
+}

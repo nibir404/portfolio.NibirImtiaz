@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body{
+  background: #599fd9;
+  background-image: linear-gradient(135.9deg, rgba(109,25,252,1) 16.4%, rgb(77, 129, 242)56.1%);
+  min-height: 100vh;
+  overflow-x: hidden;
+}

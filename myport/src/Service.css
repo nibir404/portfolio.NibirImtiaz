@@ -1,0 +1,35 @@
+.card{
+    border:none;
+    outline: none;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card p{
+    color: #808080;
+}
+
+.circle{
+    height: 70px;
+    width: 70px;
+    background-color: lightgrey;
+    color: black;
+    padding: 12px;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.card:hover .circle{
+    background-color: rgb(117, 66, 255);
+    transition: all 0.3s;
+    color: white;
+}
+
+.serve{
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.5);
+    background-image: url('../src/Images/6.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

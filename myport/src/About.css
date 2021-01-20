@@ -1,0 +1,34 @@
+.col-md-6{
+    padding: 20px 10px;
+}
+
+.about-head{
+    margin-top: 70px;
+    font-weight: 700;
+}
+
+.about-head1{
+    font-weight: 700;
+}
+
+.about-mod{
+    color: rgb(0, 145, 255);
+}
+
+.main-about{
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.8);
+    background-image: url('./Images/2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lead-text{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.about_head{
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

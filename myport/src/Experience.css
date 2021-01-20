@@ -1,0 +1,28 @@
+.col-md-3{
+    margin: 20px;
+    text-align: center;
+    align-items: center;
+    box-shadow:  3px 3px 15px rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    background-color: rgb(128, 94, 253);
+}
+
+.experience{
+    box-shadow:  3px 3px 15px rgba(0, 0, 0, 0.8);
+    background-image: url('../src/Images/5.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col-md-3 h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.col-md-3:hover{
+    border-radius: 30px;
+    transition: 0.4s all;
+    background-color: rgb(62, 100, 255);
+    
+}

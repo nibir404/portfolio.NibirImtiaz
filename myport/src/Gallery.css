@@ -1,0 +1,16 @@
+.slider-main{
+    align-items: center;
+}
+
+.box{
+    padding: 10px;
+}
+
+.slider-image{
+   box-shadow:  3px 3px 10px rgba(0, 0, 0, 0.5);
+   transition: transform 450ms;
+}
+
+.slider-image:hover{
+    transform: scale(1.08);
+}

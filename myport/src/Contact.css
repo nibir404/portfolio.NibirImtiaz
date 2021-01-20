@@ -1,0 +1,47 @@
+
+.button{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    margin: 0 5px;
+    background-color: rgba(72, 44, 255, 0.987);
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease-out;
+    overflow: hidden;
+}
+
+.button:hover{
+    width: 150px;
+    background: rgb(69, 20, 204);
+}
+
+.icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    line-height: 60px;
+    text-align: center;
+}
+
+.icon  > .MuiSvgIcon-root{
+    font-size: 25px;
+    line-height: 60px;
+    color: white;
+}
+
+.span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-left: 10px;
+}
+
+.wrapper{
+    align-items: center;
+    margin-top: 20px;
+    display: flex;
+}
