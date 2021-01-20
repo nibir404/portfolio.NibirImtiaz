@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio.NibirImtiaz/static/css/main.4febb6db.chunk.css",
+    "main.js": "/portfolio.NibirImtiaz/static/js/main.cb0131ca.chunk.js",
+    "main.js.map": "/portfolio.NibirImtiaz/static/js/main.cb0131ca.chunk.js.map",
+    "runtime-main.js": "/portfolio.NibirImtiaz/static/js/runtime-main.b048cd3b.js",
+    "runtime-main.js.map": "/portfolio.NibirImtiaz/static/js/runtime-main.b048cd3b.js.map",
+    "static/css/2.4692b5be.chunk.css": "/portfolio.NibirImtiaz/static/css/2.4692b5be.chunk.css",
+    "static/js/2.d5c6ee65.chunk.js": "/portfolio.NibirImtiaz/static/js/2.d5c6ee65.chunk.js",
+    "static/js/2.d5c6ee65.chunk.js.map": "/portfolio.NibirImtiaz/static/js/2.d5c6ee65.chunk.js.map",
+    "static/js/3.529c8c67.chunk.js": "/portfolio.NibirImtiaz/static/js/3.529c8c67.chunk.js",
+    "static/js/3.529c8c67.chunk.js.map": "/portfolio.NibirImtiaz/static/js/3.529c8c67.chunk.js.map",
+    "index.html": "/portfolio.NibirImtiaz/index.html",
+    "static/css/2.4692b5be.chunk.css.map": "/portfolio.NibirImtiaz/static/css/2.4692b5be.chunk.css.map",
+    "static/css/main.4febb6db.chunk.css.map": "/portfolio.NibirImtiaz/static/css/main.4febb6db.chunk.css.map",
+    "static/js/2.d5c6ee65.chunk.js.LICENSE.txt": "/portfolio.NibirImtiaz/static/js/2.d5c6ee65.chunk.js.LICENSE.txt",
+    "static/media/1.8ac3f954.png": "/portfolio.NibirImtiaz/static/media/1.8ac3f954.png",
+    "static/media/About.css": "/portfolio.NibirImtiaz/static/media/2.96a10181.png",
+    "static/media/Education.css": "/portfolio.NibirImtiaz/static/media/4.40346788.png",
+    "static/media/Experience.css": "/portfolio.NibirImtiaz/static/media/5.f96a241e.png",
+    "static/media/Service.css": "/portfolio.NibirImtiaz/static/media/6.def8945f.png",
+    "static/media/Skills.css": "/portfolio.NibirImtiaz/static/media/7.fff72687.png",
+    "static/media/slick-theme.css": "/portfolio.NibirImtiaz/static/media/slick.c94f7671.ttf",
+    "static/media/t-4.04921f94.png": "/portfolio.NibirImtiaz/static/media/t-4.04921f94.png",
+    "static/media/t-5.0e6aefe8.jpg": "/portfolio.NibirImtiaz/static/media/t-5.0e6aefe8.jpg",
+    "static/media/t-6.382b227f.jpg": "/portfolio.NibirImtiaz/static/media/t-6.382b227f.jpg",
+    "static/media/t-7.10a166a4.jpg": "/portfolio.NibirImtiaz/static/media/t-7.10a166a4.jpg",
+    "static/media/t-8.fce07c59.jpg": "/portfolio.NibirImtiaz/static/media/t-8.fce07c59.jpg",
+    "static/media/unique addition.97807a0c.jpg": "/portfolio.NibirImtiaz/static/media/unique addition.97807a0c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b048cd3b.js",
+    "static/css/2.4692b5be.chunk.css",
+    "static/js/2.d5c6ee65.chunk.js",
+    "static/css/main.4febb6db.chunk.css",
+    "static/js/main.cb0131ca.chunk.js"
+  ]
+}
