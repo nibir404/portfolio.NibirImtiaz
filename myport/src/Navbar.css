@@ -1,7 +1,7 @@
 .vertical-nav{
     min-width: 17rem;
     width: 17rem;
-    height: 100vh;
+    height: 200vh; //height changes from 100vh to 200vh
     position: fixed;
     top: 0;
     left: 0;
